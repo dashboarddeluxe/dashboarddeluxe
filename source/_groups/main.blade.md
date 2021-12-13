@@ -81,6 +81,11 @@ links: [
         ["Software","<heading>"],
     ],
     [
+        ["App Sales","http://www.app-sales.net/"],
+        ["Now Free","http://www.app-sales.net/nowfree/"],
+        ["Active Sales","http://www.app-sales.net/activesales/"],
+    ],
+    [
         ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
     ],
     [
@@ -131,6 +136,7 @@ links: [
     [
         ["Sky Cable","http://www.mysky.com.ph/2-play-channel-lineup"],
         ["Promos","http://www.mysky.com.ph/metromanila/promos"],
+        ["Support","http://www.mysky.com.ph/metromanila/contact-us/inquiries"],
     ],
     [
         ["Casa Daza","http://www.youtube.com/results?search_query=casa+daza+metro.style&sp=CAISAhAB"],
