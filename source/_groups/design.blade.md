@@ -12,133 +12,145 @@ links: [
   ["Images","<heading>"],
 ],
 [
-  ["Pixabay","http://pixabay.com/"],
+  ["Pixabay","https://pixabay.com/"],
 ],
 [
-  ["Unsplash","http://unsplash.com/"],
+  ["Unsplash","https://unsplash.com/"],
 ],
 [
-  ["Pxhere","http://pxhere.com/"],
+  ["Pxhere","https://pxhere.com/"],
 ],
 [
-  ["Unsample","http://unsample.net/"],
+  ["Unsample","https://unsample.net/"],
 ],
 [
-  ["Gratisography","http://gratisography.com/"],
+  ["Gratisography","https://gratisography.com/"],
 ],
 [
-  ["Pexels","http://www.pexels.com/"],
+  ["Pexels","https://www.pexels.com/"],
 ],
 [
-  ["Stocksnap","http://stocksnap.io"],
+  ["Stocksnap","https://stocksnap.io"],
 ],
 [
-  ["Freeimages","http://www.freeimages.com/"],
+  ["Freeimages","https://www.freeimages.com/"],
 ],
 [
-  ["Picography","http://picography.co"],
+  ["Picography","https://picography.co"],
 ],
 [
-  ["Picjumbo","http://picjumbo.com/"],
+  ["Picjumbo","https://picjumbo.com/"],
 ],
 [
-  ["Morguefile","http://morguefile.com"],
+  ["Morguefile","https://morguefile.com"],
 ],
 [
-  ["Flickr Image Search","http://www.flickr.com/search/?license=4%2C5%2C6%2C9%2C10&advanced=1&dimension_search_mode=min&height=1024&width=1024&media=photos&text="],
+  ["Flickr Image Search","https://www.flickr.com/search/?license=4%2C5%2C6%2C9%2C10&advanced=1&dimension_search_mode=min&height=1024&width=1024&media=photos&text="],
 ],
 [
-  ["Jay Mantri","http://jaymantri.com"],
+  ["Jay Mantri","https://jaymantri.com"],
 ],
 [
-  ["Magdeleine CC0","http://magdeleine.co/license/cc0/"],
+  ["Magdeleine CC0","https://magdeleine.co/license/cc0/"],
 ],
 [
-  ["Refe Free","http://getrefe.com/downloads/category/free/"],
+  ["Refe Free","https://getrefe.com/downloads/category/free/"],
 ],
 [
-  ["SuperFamous Images","http://images.superfamous.com/"],
+  ["SuperFamous Images","https://images.superfamous.com/"],
+],
+[
+  ["Icons","<heading>"],
+],
+[
+  ["Icomoon App","https://icomoon.io/app"],
+],
+[
+  ["Heroicons","https://heroicons.com/"],
 ],
 [
   ["Patterns","<heading>"],
 ],
 [
-  ["Trianglify.io","http://trianglify.io/"],
+  ["Trianglify.io","https://trianglify.io/"],
 ],
 [
-  ["Trianglify Background Generator","http://alssndro.github.io/trianglify-background-generator/"],
+  ["Trianglify Background Generator","https://alssndro.github.io/trianglify-background-generator/"],
 ],
 [
-  ["Geopattern","http://btmills.github.io/geopattern/geopattern.html"],
+  ["Geopattern","https://btmills.github.io/geopattern/geopattern.html"],
 ],
 [
-  ["Patterncooler","http://patterncooler.com/"],
+  ["Patterncooler","https://patterncooler.com/"],
 ],
 [
-  ["Striped Backgrounds","http://stripedbgs.com/"],
+  ["Striped Backgrounds","https://stripedbgs.com/"],
 ],
 [
-  ["Material Design Background Generator","http://stringsistemas.com/materialgenerator.html"],
+  ["Material Design Background Generator","https://stringsistemas.com/materialgenerator.html"],
 ],
 [
-  ["Flaticon Patterns","http://pattern.flaticon.com/"],
+  ["Hero Patterns","https://heropatterns.com/"],
 ],
 [
-  ["The Pattern Library","http://thepatternlibrary.com/"],
+  ["Flaticon Patterns","https://pattern.flaticon.com/"],
 ],
 [
-  ["Subtle Patterns","http://www.toptal.com/designers/subtlepatterns/"],
+  ["The Pattern Library","https://thepatternlibrary.com/"],
 ],
 [
-  ["Transparent Textures","http://www.transparenttextures.com/"],
+  ["Subtle Patterns","https://www.toptal.com/designers/subtlepatterns/"],
 ],
 [
-  ["Generate Random Bitmap PNG","http://onlinepngtools.com/generate-random-png"],
+  ["Transparent Textures","https://www.transparenttextures.com/"],
+],
+[
+  ["Generate Random Bitmap PNG","https://onlinepngtools.com/generate-random-png"],
 ],
 [
   ["Fonts","<heading>"],
 ],
 [
-    ["Font Identifier","http://fontsquirrel.com/matcherator"],
+    ["Font Identifier","https://fontsquirrel.com/matcherator"],
 ],
 [
-    ["Fontsquirrel","http://fontsquirrel.com"],
+    ["Fontsquirrel","https://fontsquirrel.com"],
 ],
 [
-    ["Dafont","http://dafont.com"],
+    ["Dafont","https://dafont.com"],
 ],
 [
-    ["Fontspace","http://fontspace.com"],
+    ["Fontspace","https://fontspace.com"],
 ],
 [
-    ["1001 Fonts","http://1001fonts.com"],
+    ["1001 Fonts","https://1001fonts.com"],
 ],
 [
-    ["Weekly Fonts","http://www.weeklyfonts.com/"],
+    ["Weekly Fonts","https://www.weeklyfonts.com/"],
 ],
 [
     ["Color Extraction","<heading>"],
 ]
 [
-  ["TinEye Color Extraction","http://labs.tineye.com/color/"],
+  ["TinEye Color Extraction","https://labs.tineye.com/color/"],
 ],
 [
-  ["PHP Color Extract","http://www.coolphptools.com/color_extract"],
+  ["PHP Color Extract","https://www.coolphptools.com/color_extract"],
 ],
 [
   ["Inspiration","<heading>"],
 ]
 [
-  ["Land Book","http://land-book.com/"],
+  ["Land Book","https://land-book.com/"],
 ],
 [
-  ["Dribble","http://dribbble.com/"],
+  ["Dribble","https://dribbble.com/"],
 ],
 [
-  ["Site Inspire","http://www.siteinspire.com/"],
+  ["Site Inspire","https://www.siteinspire.com/"],
 ]
 [
-  ["Designspiration","http://www.designspiration.net/"],
+  ["Designspiration","https://www.designspiration.net/"],
 ],
 
 ]
