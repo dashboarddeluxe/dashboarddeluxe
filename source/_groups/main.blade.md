@@ -27,6 +27,7 @@ links: [
         ["Photos","https://photos.google.com"],
     ],
     [
+        ["Ecosia","https://www.ecosia.org/"],
         ["DuckDuckGo","https://duckduckgo.com/"],
         ["Yahoo!","https://yahoo.com"],
         ["Bing","https://bing.com"],
@@ -91,12 +92,6 @@ links: [
         ["Glary Utilies","https://download.glarysoft.com/guportable.zip"],
     ],
     [
-        ["Wise Cleaner","https://www.wisecleaner.com/download.html"],
-    ],
-    [
-        ["CCleaner","https://www.ccleaner.com/ccleaner/download/standard"],
-    ],
-    [
         ["Windows Defender Definitions","https://www.microsoft.com/en-us/wdsi/definitions"],
     ],
     [
@@ -107,9 +102,6 @@ links: [
     ],
     [
         ["TronScript","https://www.reddit.com/r/TronScript/wiki/downloads"],
-    ],
-    [
-        ["O&O ShutUp10","https://www.oo-software.com/en/shutup10"],
     ],
     [
         ["BleachBit","https://www.bleachbit.org/download/windows"]
@@ -124,7 +116,7 @@ links: [
         ["CDKOffers","https://www.cdkoffers.com/"],
     ],
     [
-        ["The Ultimate Windows Utility",""],
+        ["The Ultimate Windows Utility","https://github.com/ChrisTitusTech/winutil"],
         ["iwr -useb https://christitus.com/win | iex",""],
     ],
     [
