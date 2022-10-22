@@ -14,6 +14,10 @@ links: [
     ["DD","https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdashboarddeluxe.netlify.app%2F"],
 ],
 [
+    ["GlobalStats Statcounter","https://gs.statcounter.com/"],
+    ["w3techs CMS Usage","https://w3techs.com/technologies/history_overview/content_management/all"],
+],
+[
     ["Namesilo","https://www.namesilo.com"],
 ],
 [
