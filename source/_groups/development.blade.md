@@ -126,13 +126,11 @@ links: [
 [
     ["WP Hive","https://wphive.com/"],
     ["Gutenberg","https://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
-]
+],
 [
     ["GenerateWP","https://generatewp.com/"],
-]
-[
-    ["FreeWP","https://freewp.io/"],
-]
+],
+
 [
     ["Drupal", "<heading>"],
 ],
