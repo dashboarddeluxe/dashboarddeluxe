@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://dashboarddeluxe.netlify.app',
+    'baseUrl' => 'https://dashd.netlify.app',
     'production' => true,
 ];

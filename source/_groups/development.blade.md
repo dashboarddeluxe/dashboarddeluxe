@@ -11,7 +11,7 @@ weight: 15
 links: [
 [
     ["Google PageSpeed Insights","https://developers.google.com/speed/pagespeed/insights/"],
-    ["DD","https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdashboarddeluxe.netlify.app%2F"],
+    ["DD","https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdashd.netlify.app%2F"],
 ],
 [
     ["GlobalStats Statcounter","https://gs.statcounter.com/"],
@@ -27,10 +27,10 @@ links: [
     ["IP Location Finder","https://iplocation.io/"],
 ],
 [
-    ["HTTP Headers Analyzer","https://dri.es/headers?url=https://dashboarddeluxe.netlify.app"],
+    ["HTTP Headers Analyzer","https://dri.es/headers?url=https://dashd.netlify.app"],
 ],
 [
-    ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdashboarddeluxe.netlify.app%2F"],
+    ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdashd.netlify.app%2F"],
 ],
 [
     ["FB Sharing Debugger","https://developers.facebook.com/tools/debug/"],
