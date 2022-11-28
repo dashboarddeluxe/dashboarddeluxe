@@ -18,19 +18,19 @@
                                     @foreach ($links as $link)
                                         @if ($loop->first)
                                             @if ($link[1] === '<heading>')
-                                                <div class="font-bold xl:col-span-2 border-b-2 border-gray-400 pt-2">{{ $link[0] }}</div>
+                                                <div class="sm:text-xl font-bold xl:col-span-2 border-b-2 border-gray-400 pt-2">{{ $link[0] }}</div>
                                             @else
                                                 <ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
-                                                    <span class="font-bold">{{ $link[0] }}</span>
+                                                    <li class="li1"><span class="font-bold">{{ $link[0] }}</span></li>
                                                 @else
                                                     <li class="li1"><a href="{!!  $link[1] !!}" target="_blank"
-                                                        rel="noopener noreferrer" class="sm:py-4 sm:pr-4">{{ $link[0] }}</a></li>
+                                                        rel="noopener noreferrer" class="text-xl sm:text-base py-0 pr-8 sm:pr-0">{{ $link[0] }}</a></li>
                                                 @endif
                                             @endif
                                         @else
                                             @if ($link[1] === '')
-                                            <li class="li2">
+                                            <li class="li2 sm:text-xl">
                                             {{--
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
@@ -43,7 +43,7 @@
                                             <span class="hidden sm:inline">|&nbsp;</span>
                                             --}}
                                             <a href="{{ $link[1] }}"
-                                                    target="_blank" rel="noopener noreferrer" class="sm:py-4 sm:pr-4">{{ $link[0] }}</a></li>
+                                                    target="_blank" rel="noopener noreferrer" class="text-xl sm:text-base py-0 pr-8 sm:pr-0">{{ $link[0] }}</a></li>
                                             @endif
                                         @endif
                                 @endforeach
