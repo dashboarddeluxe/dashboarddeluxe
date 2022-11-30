@@ -17,7 +17,6 @@ links: [
     ["What's New","https://calibre-ebook.com/whats-new"],
     ["Releases","https://github.com/kovidgoyal/calibre/releases"],
 ],
-
 [
     ["OpenStax Textbooks","https://openstax.org/subjects/view-all"],
 ],
@@ -45,7 +44,7 @@ links: [
 ],
 
 [
-    ["MyBible","https://mybible.zone/index-eng.php"],
+    ["MyBible","https://mybible.zone/en/"],
 ],
 ]
 ---

@@ -36,6 +36,10 @@ links: [
     ["FB Sharing Debugger","https://developers.facebook.com/tools/debug/"],
 ],
 [
+    ["Dr Link Checker","https://www.drlinkcheck.com/"],
+    ["Dead Link Checker","https://www.deadlinkchecker.com/"],
+],
+[
     ["PHP","<heading>"],
 ],
 [
@@ -103,7 +107,7 @@ links: [
     ["XAMPP","https://www.apachefriends.org/download.html"],
 ],
 [
-    ["Laragon","https://www.laragon.org/"],
+    ["Laragon","https://laragon.org/"],
     ["Releases","https://github.com/leokhoa/laragon/releases"],
 ],
 [
@@ -183,7 +187,7 @@ links: [
 [
     ["Netlify","https://app.netlify.com"],
 
-    ["Dashboard Deluxe","https://dashboarddeluxe.netlify.app"],
+    ["Dashboard Deluxe","https://dashd.netlify.app"],
 ],
 [
     ["Github","https://github.com"],
@@ -220,7 +224,7 @@ links: [
     ["Wicked Blocks","https://wickedblocks.dev/"],
 ],
 [
-    ["Built With Tailwind","https://builtwithtailwind.com/"],
+    ["Made with Tailwind","https://madewithtailwindcss.com/"],
 ],
 
 ]
