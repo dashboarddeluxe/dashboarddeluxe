@@ -69,6 +69,9 @@ links: [
   ["Heroicons","https://heroicons.com/"],
 ],
 [
+  ["Logo Ipsum","https://logoipsum.com/"],
+],
+[
   ["Patterns","<heading>"],
 ],
 [
@@ -85,6 +88,9 @@ links: [
 ],
 [
   ["Striped Backgrounds","http://stripedbgs.com/"],
+],
+[
+  ["Mesher","https://csshero.org/mesher/"],
 ],
 # [
 #   ["Material Design Background Generator","https://stringsistemas.com/materialgenerator.html"],
@@ -111,6 +117,11 @@ links: [
   ["Fonts","<heading>"],
 ],
 [
+    ["Google Fonts","https://fonts.google.com/"],
+    ["8+ Styles","https://fonts.google.com/?sort=popularity&stylecount=8"],
+    ["Variable","https://fonts.google.com/?sort=popularity&vfonly=true"],
+],
+[
     ["Font Identifier","https://fontsquirrel.com/matcherator"],
 ],
 [
@@ -124,6 +135,18 @@ links: [
 ],
 [
     ["1001 Fonts","https://1001fonts.com"],
+],
+[
+    ["Fonts in the Wild","https://www.fontsinthewild.com/"],
+],
+[
+    ["Fonts in Use","https://fontsinuse.com/"],
+],
+[
+    ["Typewolf","https://www.typewolf.com/"],
+],
+[
+    ["You Work for Them - Fonts","https://www.youworkforthem.com/fonts"],
 ],
 [
     ["Weekly Fonts","https://www.weeklyfonts.com/"],
