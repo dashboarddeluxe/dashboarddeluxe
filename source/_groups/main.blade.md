@@ -25,6 +25,7 @@ links: [
         ["Calendar","https://calendar.google.com"],
         ["Drive","https://drive.google.com"],
         ["Photos","https://photos.google.com"],
+        ["Messages","https://messages.google.com/web"],
     ],
     [
         ["Ecosia","https://www.ecosia.org/"],
@@ -48,7 +49,6 @@ links: [
         ["History","https://www.youtube.com/feed/history"],
         ["Studio","https://studio.youtube.com/"],
     ],
-
     [
         ["WhatsApp","https://web.whatsapp.com/"],
         ["Telegram","https://web.telegram.org/"],
@@ -56,10 +56,17 @@ links: [
     [
         ["World Time Buddy","https://www.worldtimebuddy.com/"],
         ["Preset","https://www.worldtimebuddy.com/?pl=1&lid=1701668,5192726,5308655&hf=0"],
-    ]
+    ],
     [
+        ["Speed Test","https://www.speedtest.net/"],
+        ["Cloudflare","https://speed.cloudflare.com/"],
+        ["ipFail Continuous","https://webtools.ipfail.org/internet-speed-test/"],
         ["Open Speed Test","https://openspeedtest.com/"],
-    ]
+        ["Fast.com","https://fast.com/"],
+    ],
+    [
+        ["Snapdrop","https://snapdrop.net/"],
+    ],
     [
         ["E-Commerce","<heading>"],
     ],
